@@ -14,3 +14,7 @@ more understanding spring mvc &amp; template engine🥙🥑
     - HTTP API에서 주로 사용, JSON, XML, TEXT
     - 데이터 형식은 주로 JSON 사용
     - POST, PUT, PATCH
+
+### TIP
+- InputStream(Reader) : HTTP 요청 메시지 바디의 내용을 직접 조회
+- OutputStream(Writer) : HTTP 응답 메시지의 바디에 직접 결과 출력
